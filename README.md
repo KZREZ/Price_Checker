@@ -10,7 +10,7 @@ This is a platform for comparing prices of different commodities on the market t
 HTTP Method|Endpoint|Functionality
 -----------|--------|-------------
 GET|/|Gets all products in the database
-GET|/<productId>|Get a product with the given Id
+GET|/productId|Get a product with the given Id
 POST|/products|Add product to database
 
 
